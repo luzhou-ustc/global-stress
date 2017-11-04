@@ -9,6 +9,6 @@ Apart from tectonic causes, stress changes on the Earth could also be caused by 
 * **PGR.tar**: contains calculated stress rate caused by postglacial rebound (PGR).
 
 
-
+***
 Reference:
 * Lu, Z., Yi, H., Wen, L. (2018). Earth’s stress change over time. Submitted to *Journal of Geophysical Research: Solid Earth*.
